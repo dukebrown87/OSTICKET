@@ -1,4 +1,4 @@
-# OSTICKET
+
 <h1>osTicket Lab 1: Installation on Windows IIS</h1>
 
 <h2>Project Summary</h2>
